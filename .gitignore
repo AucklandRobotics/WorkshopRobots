@@ -19,3 +19,8 @@
 *.exe
 *.out
 *.app
+
+#PROS Files
+*.jar
+*.elf
+*.bin
